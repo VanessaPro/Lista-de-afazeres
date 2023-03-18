@@ -18,14 +18,14 @@
 }
 
 header {
-	color: black;
+	color: white;
 	text-align: center;
 }
 
 
 body {
-	background: #DB7093;
-	margin-top: 2rem;
+	background-image: url(../Imagem/pexels-stein-egil-liland-1933320.jpg);
+	
 }
 
 section {
