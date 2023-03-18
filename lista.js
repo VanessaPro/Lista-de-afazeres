@@ -44,7 +44,7 @@
 
 			taskChkbx = document.createElement("input");
 			taskChkbx.setAttribute("type", "checkbox");
-			//tarfa do usuário
+			//tarefa do usuário
 
 			taskVal = document.createTextNode(this.taskInput.value);
 			//botão deletar
@@ -54,7 +54,7 @@
 
 			taskTrsh = document.createElement("i");
 			taskTrsh.setAttribute("class", "fa fa-trash");
-			//inserir lixeira o botão
+			//inserir lixeira ao botão
 
 			taskBtn.appendChild(taskTrsh);
 
